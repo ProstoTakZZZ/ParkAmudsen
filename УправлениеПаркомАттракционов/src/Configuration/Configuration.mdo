@@ -28,6 +28,10 @@
   </usedMobileApplicationFunctionalities>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <briefInformation>
+    <key>ru</key>
+    <value>Курс парк едт</value>
+  </briefInformation>
   <copyright>
     <key>ru</key>
     <value>Фирма 1С</value>
