@@ -16,7 +16,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Фирма 1С</vendor>
-  <version>1.0.0.2</version>
+  <version>1.0.0.6</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -28,10 +28,6 @@
   </usedMobileApplicationFunctionalities>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
-  <briefInformation>
-    <key>ru</key>
-    <value>Курс парк едт</value>
-  </briefInformation>
   <copyright>
     <key>ru</key>
     <value>Фирма 1С</value>
